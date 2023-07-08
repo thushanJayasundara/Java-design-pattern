@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea
+/out
+/Behavioral Patterns/Behavioral Patterns.iml
+/Creational Patterns/Creational Patterns.iml
+/Structural Patterns/Structural Patterns.iml
+
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+/Creational Patterns/Singleton/Singleton.iml
