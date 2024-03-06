@@ -3,11 +3,11 @@
 /.idea
 /out
 /Behavioral Patterns/Behavioral Patterns.iml
-/Creational Patterns/Creational Patterns.iml
+/Creational/Creational Patterns.iml
 /Structural Patterns/Structural Patterns.iml
 Java-design-pattern.iml
 
 # Editor-based HTTP Client requests
 /httpRequests/
 
-/Creational Patterns/Singleton/Singleton.iml
+/Design Pattern/Singleton.iml

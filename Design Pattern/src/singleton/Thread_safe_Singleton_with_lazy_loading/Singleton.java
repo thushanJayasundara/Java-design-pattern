@@ -1,4 +1,4 @@
-package Thread_safe_Singleton_with_lazy_loading;
+package singleton.Thread_safe_Singleton_with_lazy_loading;
 
 public final class Singleton {
     // The field must be declared volatile so that double check lock would work

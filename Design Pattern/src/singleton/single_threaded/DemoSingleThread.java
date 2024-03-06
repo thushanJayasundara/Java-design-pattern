@@ -1,4 +1,4 @@
-package single_threaded;
+package singleton.single_threaded;
 
 public class DemoSingleThread {
     public static void main(String[] args) {
